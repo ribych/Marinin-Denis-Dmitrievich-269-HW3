@@ -1,0 +1,12 @@
+.env
+pycache
+*.pyc
+*.pyo
+.venv
+venv/
+backup_temp/
+backup/
+*.tar.gz
+.idea/
+.vscode/
+.DS_Store
